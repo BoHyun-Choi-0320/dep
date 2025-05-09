@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
       - name: con-front
-        image: etoile0320/spring:3
+        image: etoile0320/spring:11
 
 
 
